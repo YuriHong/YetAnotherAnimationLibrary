@@ -1,5 +1,4 @@
 import UIKit
-import YetAnotherAnimationLibrary
 
 class CardViewController: UIViewController {
 
